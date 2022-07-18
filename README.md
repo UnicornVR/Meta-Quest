@@ -10,6 +10,8 @@ Doom 3 https://youtu.be/xuHUlxbtTlw
 # guide:
 [Oculus Quest - 50 Amazing Things You Can Do With Them! (NEW UPDATE)](https://youtu.be/LNnVNKJHIwo)
 
+[20 Oculus Quest 2 Tips and Tricks for Beginners](https://youtu.be/tyVJ20AzCvs)
+
 # Affiliate
 Referral Link  
 example: https://youtu.be/LNnVNKJHIwo
